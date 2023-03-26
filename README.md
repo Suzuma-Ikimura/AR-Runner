@@ -18,13 +18,14 @@ Therefore, below I will provide photos and video evidence of the working project
 
 Here I will present some screenshots from the game, in the future I will pour video, so you can see the Gameplay!
 <p align="center"> Startup screen when reading an image: </p>
-
+<p align="center"> <img src="" width="240"> </p>
 <p align="center"> Pause menu(if the desired image disappears from the frame): </p>
-
+<p align="center"> <img src="" width="240"> </p>
 <p align="center"> Lose menu(if the player fails to jump to the platform): </p>
-
+<p align="center"> <img src="" width="240"> </p>
 <p align="center"> Photo gameplay: </p>
-
+<p align="center"> <img src="" width="240"> </p>
+<p align="center"> <img src="" width="240"> </p>
 
 ## Gameplay - AR Runner
 
